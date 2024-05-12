@@ -1,4 +1,5 @@
 
+# http://localhost:4040/randomImage
 # Generate Random Image API
 
 **Write code for API Creation**
